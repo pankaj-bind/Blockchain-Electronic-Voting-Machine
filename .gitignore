@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+npm-debug.log
+
+# Hardhat (blockchain)
+artifacts/
+cache/
+coverage/
+typechain/
+hardhat.config.ts
+hardhat.config.js
+
+# Backend (Node.js/Express)
+server/node_modules/
+server/npm-debug.log
+server/.env
+server/logs/
+server/*.log
+
+# Frontend (React)
+client/node_modules/
+client/build/
+client/.env
+client/dist/
+client/coverage/
+client/*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build and Temporary Files
+*.log
+*.pid
+*.seed
+*.swp
+*.swo
+
+# MongoDB Data (if stored locally)
+mongodb-data/
+data/
+
+# MetaMask or Wallet Files
+*.key
+*.private
+
+# Miscellaneous
+.env
+.env.local
+.env.development
+.env.production
+*.bak
+*.tmp
