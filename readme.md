@@ -1,4 +1,4 @@
-# Voting App
+# Blockchain Electronic Voting Machine
 
 A decentralized voting application built using React, Solidity, Hardhat, and Node.js. The app allows users to vote for candidates securely on the blockchain, with a one-vote-per-account restriction and a 60-second voting time limit. The frontend is styled to resemble a real-life Electronic Voting Machine (EVM) on the homepage, with additional pages for viewing results, about information, and contact details. The app supports light and dark mode themes with an SVG-based theme toggle.
 
